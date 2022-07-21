@@ -1,0 +1,24 @@
+          |==================|
+          |=====BIONICLE=====|
+          |==MASKS OF POWER==|
+          |==================|
+
+           Official Parts Pack
+                made by
+              TEAM KANOHI
+
+Parts pack containing 193 textured parts created for the game Bionicle: Masks of Power.
+
+Part Topology: Boxturret, Andrew Jacobs
+Mask Topology: OniFox(5), frambo(7)
+Textures: Andrew Jacobs
+Lighting and Setup for Promotional Material: Kristy Bores
+Animation and Renders for Promotional Material: Boxturret
+Sound Design for Promotional Material: Garrett
+Quality Assurance: omegalucas, Kristy Bores, OniFox
+
+
+
+Many parts used meshes from Bricklink's STUD.IO as a base or as reference.
+
+Find the Power, Relive the Legend, at https://masksofpower.com/

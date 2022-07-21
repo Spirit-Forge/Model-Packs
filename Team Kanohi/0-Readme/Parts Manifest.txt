@@ -1,0 +1,193 @@
+0		Rubber Band
+2251		Thin Lift Arm L Curve 5x7
+2736		Axle with Ball
+2780		Pin 2L with Friction
+2817		2x2 Plate with Pin Holes
+2853		Crankshaft
+2905		Thin Lift Arm Triangle 5x3
+2983		Micromotor Pulley
+2986		Micromotor
+2986		Micromotor Base
+2994		Wheel Sand
+3020		2x4 Plate
+3022		2x2 Plate
+3647		8 Toothed Gear
+3648		24 Toothed Gear
+3649		40 Toothed Gear
+3673		Pin 2L
+3700		1x2 Brick with Pin Hole
+3702		1x8 Brick with Pin Holes
+3703		1x16 Brick with Pin Holes
+3705		Axle 4L
+3706		Axle 6L
+3707		Axle 8L
+3708		Axle 12L
+3713		Bush
+3737		Axle 10L
+3738		2x8 Plate with Holes
+3749		Pin/Axle
+4019		16 Toothed Gear
+4073		1x1 Stud
+4185		Pulley with 6 Pin Holes
+4274		Pin 1/2
+4288		Rubber Balloon Tire
+4519		Axle 3L
+4589		1x1 Cone
+4716		Worm Gear
+4757		2x4 Plate with Electric Contacts
+6192		2x4 Curved Slope
+6536		Axle connector Perpendicular
+6542		16 Toothed Clutch Gear
+6553		Axle 2 with Reverser Handle Axle Connector
+6558		Pin 3L Friction
+6575		Cam
+6587		Axle 3L with Stud
+6589		12 Toothed Bevel Gear
+6628		Pin with Ball
+6629		Lift Arm Bent 9L 6-4
+6630		Gear Rack
+6632		Thin Lift Arm 3L
+6641		Changeover Catch
+10721		Crankshaft Center
+15532		Ball and Chain
+23948		Axle 11L
+30173		Katana
+32000		1x2 Brick with 2 Holes
+32002		Pin 3/4
+32007		Tread Hub
+32009		Lift Arm Bent 11.5L 7-3.5-3
+32013		Angled Connector 1
+32014		Angled Connector 6
+32015		Angled Connector 5
+32016		Angled Connector 3
+32017		Thin Lift Arm 5L
+32018		1x14 Brick with Pin Holes
+32034		Angled Connector 2
+32039		Axle Connector with Axle Hole
+32054		Pin 3L with Bush
+32056		Thin Lift Arm L 3x3
+32062		Axle 2L
+32063		Thin Lift Arm 6L
+32065		Thin Lift Arm 7L
+32068		Axle connector Perpendicular  3L
+32072		4 Toothed Cog
+32073		Axle 5L
+32089		Sprocket Wheel
+32123		Half Bush
+32138		Double Pin with Axle Hole
+32140		Lift Arm L 2x4
+32165		Slizer Head
+32166		Slizer Gear Box
+32167		Nui Rama Gear Box
+32171		Throwing Disc
+32172		Toa Hand
+32173		Technic Arm
+32174		Ball Socket
+32175		Pin Connector 3x3 Slizer Foot 
+32177		Lift Arm 7L Fan
+32184		Axle connector with Central Hole 3L
+32190		Panel Fairing Large Short A
+32191		Panel Fairing Large Short B
+32192		Angled Connector 4
+32200		Soft Axle 12L
+32209		Axle 5.5L With Stop
+32249		Thin Lift Arm L Curve 3x3
+32250		Thin Lift Arm L Curve 3x5
+32269		20 Toothed Gear
+32270		12 Toothed Gear
+32271		Lift Arm Bent 9L 7-3
+32278		Lift Arm 15L
+32291		Axle Double Pin Connector Perpendicular
+32305		Roborider Gearbox
+32306		Roborider Wheel Holder
+32307		Axle Connector 3x6
+32308		Lift Arm Fork 3x7x2 Roborider
+32310		Roborider Head 
+32316		Lift Arm 5L
+32348		Lift Arm Bent 7L 4-4
+32449		Thin Lift Arm 4L
+32474		Ball
+32475		Toa Foot
+32482		Toa Leg
+32489		Toa Body
+32498		36 Toothed Gear
+32505		Hau
+32506		Onua Claw
+32523		Lift Arm 3L
+32524		Lift Arm 7L
+32525		Lift Arm 11L
+32526		Lift Arm L 3x5
+32527		Panel Fairing Small Short A
+32528		Panel Fairing Small Short B
+32530		Connector Plate with 2 Holes Vertical
+32534		Panel Fairing Small Long A
+32535		Panel Fairing Small Long B
+32551		Gali Hook
+32552		Kopaka Sword
+32553		Toa Skull
+32554		Brain Stalk
+32556		Pin 3L
+32557		Double PinX2 Connector Perpendicular
+32558		Tahu Sword
+32559		Lewa Axe
+32560		Pohatu Foot
+32565		Miru
+32566		Pakari
+32567		Ruru
+32568		Kakama	
+32569		Akaku	
+32570		Matatu
+32571		Kaukau
+32572		Komau
+32573		Huna
+32574		Rau
+32575		Mahiki
+32576		Tohunga Foot
+32577		Tohunga Torso
+32578		Tohunga Claw Arm
+32579		Tohunga Skull
+33299		Crank
+40339		Nokama Staff
+40340		Whenua Staff
+40341		Matau Staff
+40342		Vakama Staff
+40490		Lift Arm 9L
+40507		Tohunga Disc Throwing Arm
+40581		Onewa Staff
+40582		Nuju Staff
+41239		Lift Arm 13L
+41677		Thin Lift Arm 2L
+41678		Pin Connector Double Split
+42003		Axle connector Perpendicular  3L Double Hole
+43093		Pin_Axle with Friction
+43857		Lift Arm 2L
+44294		Axle 7L
+50451		Axle 16L
+60485		Axle 9L
+75535		2L Pin Connector
+23323c01	Manas Motor
+2838c01		Motor
+30294+30293	Rock Boulder
+3062b		Round 1 x 1 Open Stud
+3069p12		Tile 1x2
+32074c01	Projectile Launcher
+32133ac01	Projectile Arrow
+32439a		RoboRider Wheel
+3650a		24 Toothed Crown Gear
+3839b		1x2 plate with handles
+4285b		6x6 Dish-Kopaka Shield
+44375b		6x6 Dish
+4760c01		Battery Box
+5306bc036	Electric Cable with Brick Ends 36L
+6538b		Axle Connector
+680c01		Tarakava Tread
+731c06		Shock Absorber
+75c03		Hose Rigid 3L
+75c08		Hose Rigid 8L 
+78c02		Ribbed Tube 2L
+78c03		Ribbed Tube 3L
+78c04		Ribbed Tube 4L
+78c09		Ribbed Tube 9L
+bb0078		Ball Joint Double Rack
+bb0661		Muaka Treads
+x240		Toa Sword Arm (Voodo) Accurate Piston
